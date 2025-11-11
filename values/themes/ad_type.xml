@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ad_types">
+        <item>Banner</item>
+        <item>Interstitial</item>
+        <item>Rewarded</item>
+        <item>Native</item>
+    </string-array>
+</resources>
